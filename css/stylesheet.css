@@ -1,0 +1,14 @@
+::root{
+    --color:#b6895b;
+}
+
+h1{
+color:#b6895b;
+}
+
+form{
+    justify-content: center;
+}
+body{
+    font-family: 'poppins';
+}
